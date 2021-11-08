@@ -1,4 +1,5 @@
 ### Hlo Harshit her 😎
+<p align="center">&nbsp;<img src="https://komarev.com/ghpvc/?username=harshit1wiall&label=Profile%20views&color=0e75b6&style=plastic" alt="harshit1wiall" /> </p>
 
 <!--
 **harshit1wiall/harshit1wiall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
