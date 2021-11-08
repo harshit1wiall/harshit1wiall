@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshit1wiall&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${harshit1wiall}.${harshit1wiall})
+![Visitor Count](https://profile-counter.glitch.me/{harshit1wiall}/count.svg)
