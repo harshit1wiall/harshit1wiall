@@ -1,4 +1,4 @@
-### Hlo Harshit her 😎
+### <p align="center">Hlo Harshit her 😎</p>
 <p align="center">&nbsp;<img src="https://komarev.com/ghpvc/?username=harshit1wiall&label=Profile%20views&color=0e75b6&style=plastic" alt="harshit1wiall" /> </p>
 
 <!--
