@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshit454545" target="blank"><img src="https://img.shields.io/twitter/follow/harshit454545?logo=twitter&style=for-the-badge" alt="harshit454545" /></a> </p>
 
-- 🌱 I’m currently learning **React,ASP.NET,mySQL**
+- 🌱 I’m currently learning **React,ASP.NET,mySQL,NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshit1wiall](https://github.com/harshit1wiall)
 
